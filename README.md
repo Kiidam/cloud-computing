@@ -24,7 +24,7 @@ API REST implementada con Laravel 12 para gestionar servicios en la nube, medida
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/urdaydev/cloud-computing.git
+git clone https://github.com/kiidam/cloud-computing.git
 cd cloud-computing
 ```
 
